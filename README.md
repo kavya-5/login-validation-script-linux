@@ -1,7 +1,7 @@
 # login-validation-script-linux
 Bash script to send emails when unsuccessful login attempt happens to your machine
 
-# PRE REQUISITES
+## PRE REQUISITES
 Step 1: Install a mail server  
 ```	$ sudo apt install mailutils ```  
 
